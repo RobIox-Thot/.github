@@ -1,5 +1,5 @@
 <div align="center"><h1>
-  This is here to snip my name with an i lol.<br>
+  This is here to snipe my name with an i lol.<br>
   My profile is <a href="https://github.com/Roblox-Thot/">@Roblox-Thot</a>
 </h1></div>
 
